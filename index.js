@@ -2,6 +2,11 @@
 
 //data
 let cityStates = [{
+        state: "Arizona",
+        stateAbbr: "AZ",
+        cities: ["Phoenix", "Tucson", "Yuma", "Flagstaff"]
+    },
+    {
         state: "California",
         stateAbbr: "CA",
         cities: ["Los Angeles", "San Francisco", "San Diego"]
